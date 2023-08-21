@@ -1,0 +1,20 @@
+.third-area-main-top{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.category{
+    width: 22%;
+}
+
+.blog-article{
+    width: 45%;
+}
+
+.article-brief{
+    top: -20%;
+}
+
+.drpdwn-content{
+    flex-wrap: wrap;
+}

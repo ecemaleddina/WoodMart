@@ -1,0 +1,158 @@
+.woman-img{
+    display: none;
+}
+
+.man-img{
+    display: none;
+}
+
+.header-top-left{
+    display: none !important;
+}
+
+.header-top-right{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.header-bottom-left{
+    display: none;
+}
+
+.header-bottom-mid{
+    width: 100%;
+}
+
+.product-area{
+    width: 100%;
+}
+
+.tenth-area{
+    display: none;
+}
+
+.ads-area{
+    display: none !important;
+}
+
+.compare-zone{
+    display: none !important;
+}
+
+.top-rated-area{
+    display: none;
+}
+
+.product-item{
+    width: 25%;
+}
+
+.footer-lines{
+    width: 100%;
+}
+
+.footer-top-right{
+    width: 60%;
+}
+
+.footer-top-right-wrapper{
+    gap: 2rem;
+}
+
+.sign-up-btn{
+    font-size: 16px;
+}
+
+.footer-mid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-mid-top{
+    width: 45%;
+}
+
+.footer-mid-mid{
+    width: 45%;
+}
+
+.footer-mid-bottom{
+    width: 50%;
+}
+
+.product-adding i, .sixth-product-adding i{
+    font-size: 1rem;
+}
+
+.eighth-area{
+    display: none;
+}
+
+.desc-left{
+    width: 50%;
+}
+
+.desc-mid{
+    width: 50%;
+}
+
+.desc-right{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.desc-right .desc{
+    width: 33%;
+}
+
+.questions-area{
+    flex-wrap: wrap;
+}
+
+.questions-left, .questions-right{
+    width: 100%;
+}
+
+.banner{
+    display: none;
+}
+
+.related-product{
+    width: 50% !important;
+}
+
+.cat{
+    width: 30%;
+}
+
+.article-brief{
+    top: -15%;
+}
+
+.cats-sixth-area{
+    padding: 0 2rem !important;
+}
+
+.spacingless{
+    width: 50%;
+}
+
+.spacingless-popup{
+    right: -15%;
+}
+
+.spacingless-price{
+    bottom: -5%;
+}
+
+.contact-header{
+    flex-direction: column;
+}
+
+.header-left ul li a{
+    font-size: 1.2rem;
+    font-weight: 400;
+}

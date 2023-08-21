@@ -1,0 +1,101 @@
+.header-top-left-list li:last-child {
+    display: none;
+}
+
+.header-bottom-right {
+    display: none !important;
+}
+
+.header-bottom-left {
+    display: block;
+    width: 25%;
+}
+
+.header-bottom-mid {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+}
+
+.adding {
+    bottom: -35%;
+}
+
+.popup-left {
+    right: -25%;
+    top: 10px;
+}
+
+.first-area-left {
+    display: none;
+}
+
+.first-area-left{
+    display: none;
+}
+
+.first-area-right {
+    width: 100%;
+}
+
+.fifth-area{
+    display: none;
+}
+
+.select-link{
+    display: none !important;
+}
+
+.products-carousel{
+    display: none;
+}
+
+.imgs-carousel{
+    width: 100%;
+}
+
+.product-adding, .sixth-product-adding, .shuffle-place {
+    bottom: -35%;
+}
+
+.sign-up-btn {
+    font-size: 9px;
+}
+
+.info-about-site{
+    width: 50%;
+}
+
+.ads{
+    display: none;
+}
+
+.other-cats{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.25rem !important;
+}
+
+.cat{
+    width: 22%;
+}
+
+.article-brief{
+    top: -15%;
+}
+
+.for-sale-area{
+    width: 100%;
+}
+
+.fourth-area-right{
+    display: none !important;
+}
+
+.spacingless-popup{
+    right: -20%;
+}
+
+.spacingless-price{
+    bottom: -10%;
+}
